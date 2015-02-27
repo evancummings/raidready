@@ -1,0 +1,27 @@
+body {
+    padding-top: 100px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+th, td {
+  text-align: center;
+}
+
+.loader {
+    font-size: 64px;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.progress {
+    height: 60px;
+}
+
+.chosen {
+    height: 26px;
+}
+
+.search-controls {
+    width: 500px;
+}
